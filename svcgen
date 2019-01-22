@@ -1,0 +1,3 @@
+This is a stub for a script that would generate services with a minimal correct configuration from a template.
+I've used giter8 in the past (https://github.com/foundweekends/giter8), but yeoman,
+leiningen and probably a bunch of other projects I don't know about would be fine too!
